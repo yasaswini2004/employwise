@@ -29,11 +29,11 @@ HTML & CSS
 # Setup and Installation
 Follow these steps to set up the project on your local machine:
 
-Clone the repository: git clone https://github.com/your-username/EmployWise-Assignment.git
+1. Clone the repository: git clone https://github.com/your-username/EmployWise-Assignment.git
 
-Navigate to the project directory: cd EmployWise-Assignment
+2. Navigate to the project directory: cd EmployWise-Assignment
 
-Install dependencies: npm install
+3. Install dependencies: npm install
 
 npm install axios react-router-dom @mui/material @emotion/react @emotion/styled bootstrap
 
@@ -43,7 +43,7 @@ Start the development server: npm run dev
 Open your browser and visit: https://employwisetask.netlify.app/
 
 # Usage Instructions
-Login
+**Login**
 
 Enter a valid email and password (mock validation):
 
@@ -53,18 +53,18 @@ Password : cityslicka
 
 Successful login redirects to the users list page.
 
-Users List
+**Users List**
 
 Displays users fetched from the Reqres API.
 
 Click "Edit" on a user to update their details.
 
-Edit User
+**Edit User**
 
 Modify user details and save changes.
 
 Changes are reflected on the users list page.
 
 
-License
+# License
 This project is for educational purposes only.
