@@ -59,12 +59,18 @@ Displays users fetched from the Reqres API.
 
 Click "Edit" on a user to update their details.
 
+
 ## Edit User
 
 Modify user details and save changes.
 
-Changes are reflected on the users list page.
+Changes are reflected on the users list page. If the details are not reflected move to next page and come back again to same page, we can see the updated details.
 
+## Delete User
+
+This deletes user details.
+
+The deleted user doesn't reappear again. 
 
 # License
 This project is for educational purposes only.
