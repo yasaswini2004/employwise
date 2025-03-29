@@ -43,23 +43,23 @@ Start the development server: npm run dev
 Open your browser and visit: https://employwisetask.netlify.app/
 
 # Usage Instructions
-**Login**
+## Login
 
 Enter a valid email and password (mock validation):
 
-Email : eve.holt@reqres.in
+**Email :** eve.holt@reqres.in
 
-Password : cityslicka
+**Password :** cityslicka
 
 Successful login redirects to the users list page.
 
-**Users List**
+## Users List
 
 Displays users fetched from the Reqres API.
 
 Click "Edit" on a user to update their details.
 
-**Edit User**
+## Edit User
 
 Modify user details and save changes.
 
